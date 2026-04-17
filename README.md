@@ -1,23 +1,87 @@
-<h1>Hi 👋</h1>
-<p>I'm Netej Ghodbane, a computer science engineering student who is passionate about problem-solving and AI.</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a target="_blank" href="https://symfony.com/logos/symfony_black_03.svg" style="display: inline-block;"><img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a></p>
+<p align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:2563eb&text=Netej%20Ghodbane&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AI%20%7C%20Data%20Science%20%7C%20Software%20Engineering&descAlignY=60" alt="Netej Ghodbane banner" />
+</p>
+
+<h1 align="center">Netej Ghodbane</h1>
+
+<p align="center">
+	<strong>Computer Science Engineering Student building practical AI products with full-stack execution.</strong>
+</p>
+
+<p align="center">
+	<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer+in+Progress;Data+Science+Enthusiast+who+loves+real-world+impact;MLOps-minded+Builder+%7C+FastAPI+%7C+Next.js+%7C+Docker;Problem+Solver+who+ships+clean%2C+measurable+solutions" alt="Typing animation" />
+</p>
+
+---
+
+## About Me
+
+- Computer Science Engineering student focused on AI, Data Science, and scalable software systems.
+- I enjoy transforming ideas into production-ready solutions with measurable business impact.
+- Current focus: Machine Learning, MLOps workflows, backend APIs, and end-to-end product delivery.
+- I thrive on solving complex problems through experimentation, iteration, and clean engineering.
+- Open to internship and collaborative opportunities in AI/ML, Data Science, and Software Engineering.
+
+---
+
+## Tech Stack
+
+### Programming Languages
+
+<p>
+	<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,sql" alt="Programming Languages" />
+</p>
+
+### AI / Data Science
+
+<p>
+	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+	<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+	<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+	<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+	<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+	<img src="https://img.shields.io/badge/Logstash-1A1A1A?style=for-the-badge&logo=logstash&logoColor=white" alt="Logstash" />
+	<img src="https://img.shields.io/badge/Kibana-E8478B?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana" />
+</p>
+
+### Web & Frameworks
+
+<p>
+	<img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,nodejs,symfony" alt="Web and Frameworks" />
+</p>
+
+### Databases
+
+<p>
+	<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="Databases" />
+</p>
+
+### Tools & DevOps
+
+<p>
+	<img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,linux,postman" alt="Tools and DevOps" />
+</p>
+
+---
+
+## Contact
+
+<p>
+	<a href="https://www.linkedin.com/in/natejghodbane/">
+		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+	</a>
+	<a href="https://www.natejghodbane.me/fr">
+		<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+	</a>
+	<a href="mailto:ghodbanenatej@gmail.com">
+		<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+	</a>
+</p>
+
+---
+
+<p align="center">
+	<em>Building data-driven products that blend intelligent models with robust engineering.</em>
+</p>
